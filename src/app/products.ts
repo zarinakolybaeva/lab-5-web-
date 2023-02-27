@@ -131,7 +131,140 @@ export const products = [
     visibility: true,
     category: 2,
     link: 'https://kaspi.kz/shop/p/samsung-galaxy-a73-5g-6-gb-128-gb-zelenyi-104546042/?c=750000000#!/item'
-  }
+  },
+  {
+    id: 11,
+    name: 'iPhone 13 mini 128Gb',
+    price: 630,
+    description: `The Apple iPhone 13 mini has received a 5.4—inch Super Retina XDR display, which features an incredibly high pixel density - photos, videos and text look strikingly clear. And thanks to the reduced area of the True Depth camera, there is now more space for the image on the display.   Apple has developed a completely new camera layout and deployed the lenses at 45 degrees.`,
+    image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h6e/hdf/46392722784286/apple-iphone-13-mini-128gb-cernyj-102298500-1-Container.jpg',
+    rating: '4.9',
+    likes: 0,
+    visibility: true,
+    category: 4,
+    link: 'https://kaspi.kz/shop/p/apple-iphone-13-mini-128gb-chernyi-102298500/?c=750000000#!/item'
+  },
+  {
+    id: 12,
+    name: 'iPhone 13 mini 256Gb',
+    price: 670,
+    description: `The Apple iPhone 13 mini has received a 5.4—inch Super Retina XDR display, which features an incredibly high pixel density - photos, videos and text look strikingly clear. And thanks to the reduced area of the True Depth camera, there is now more space for the image on the display.   Apple has developed a completely new camera layout and deployed the lenses at 45 degrees.`,
+    image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h89/h3d/46392728092702/apple-iphone-13-mini-256gb-belyj-102298530-1-Container.jpg',
+    rating: '4.4',
+    likes: 0,
+    visibility: true,
+    category: 4,
+    link: 'https://kaspi.kz/shop/p/apple-iphone-13-mini-256gb-belyi-102298530/?c=750000000#!/item'
+  },
+  {
+  id: 13,
+  name: ' Xiaomi Redmi Note 11S 6',
+  price: 200,
+  description: `The AMOLED display with a diagonal of 6.43” guarantees a clear image and smooth picture change in dynamic scenes. This model allows you to always stay connected, work with the most modern applications and make colorful detailed ones using a cool camera.`,
+  image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/heb/he7/49414417154078/xiaomi-redmi-note-11s-6-gb-128-gb-seryj-104154272-1.jpg',
+  rating: '2.4',
+  likes: 0,
+  visibility: true,
+  category: 3,
+  link: 'https://kaspi.kz/shop/p/xiaomi-redmi-note-11s-6-gb-128-gb-seryi-104154272/?c=750000000#!/item'
+},
+{
+  id: 13,
+  name: 'Xiaomi Redmi 9A ',
+  price: 70,
+  description: `Xiaomi Red 9A is a version of a budget smartphone, the main features of which are a large screen with a diagonal of 6.53" and a capacious 5000 mAh battery. The main and front-facing AI cameras (13 MP and 5 MP, respectively) allow you to easily take excellent high-quality photos. Big screen. `,
+  image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hb1/hd8/31501177618462/xiaomi-redmi-9a-2-32gb-seryj-100399600-1-Container.jpg',
+  rating: '2.0',
+  likes: 0,
+  visibility: true,
+  category: 3,
+  link: 'https://kaspi.kz/shop/p/xiaomi-redmi-9a-2-gb-32-gb-seryi-100399600/?c=750000000#!/item'
+},
+{
+  id: 14,
+  name: 'Xiaomi Redmi Note 10 Pro ',
+  price: 110,
+  description: `Xiaomi Red 10 pro is a version of a budget smartphone, the main features of which are a large screen with a diagonal of 6.53" and a capacious 5000 mAh battery. The main and front-facing AI cameras (13 MP and 5 MP, respectively) allow you to easily take excellent high-quality photos. Big screen. `,
+  image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hd4/hf5/64482875047966/xiaomi-redmi-note-10-pro-8-gb-128-gb-sinii-107220924-1.jpg',
+  rating: '2.2',
+  likes: 0,
+  visibility: true,
+  category: 3,
+  link: 'https://kaspi.kz/shop/p/xiaomi-redmi-note-10-pro-8-gb-256-gb-sinii-107220924/?c=750000000#!/item'
+},
+{
+  id: 15,
+  name: 'Xiaomi Redmi Note 10 Pro ',
+  price: 120,
+  description: `The new design, flat frames, simple and elegant lines combined with soft shades and a smooth matte finish will become the brightest accessory for any of your looks. Thanks to three updated cameras with a resolution of up to 108 MP, you will learn that there are several ways to capture the world. 108 MP wide-angle camera, ultra-wide-angle camera and macro camera meet your needs in all conditions. Provides richer colors and higher contrast without distortion of real colors. `,
+  image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/ha3/h02/61684710604830/xiaomi-12-lite-8-gb-256-gb-cernyj-106053690-1.jpg',
+  rating: '2.1',
+  likes: 0,
+  visibility: true,
+  category: 3,
+  link: 'https://kaspi.kz/shop/p/xiaomi-12-lite-8-gb-256-gb-chernyi-106053690/?c=750000000#!/item'
+},
+{
+id: 16,
+name: 'iPhone 14 Pro Max ',
+price: 700,
+description: `The iPhone 14 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.69 inches diagonally (actual viewable area is less). Both models: Dynamic Island. Always-On display. `,
+image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/ha3/h02/61684710604830/xiaomi-12-lite-8-gb-256-gb-cernyj-106053690-1.jpg',
+rating: '5.0',
+likes: 0,
+visibility: true,
+category: 1,
+link: 'https://kaspi.kz/shop/p/apple-iphone-14-pro-max-256gb-fioletovyi-106363342/?c=750000000#!/item'
+},
+{
+id: 16,
+name: 'iPhone 14 Pro Max ',
+price: 700,
+description: `The iPhone 14 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.69 inches diagonally (actual viewable area is less). Both models: Dynamic Island. Always-On display. `,
+image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/ha3/h02/61684710604830/xiaomi-12-lite-8-gb-256-gb-cernyj-106053690-1.jpg',
+rating: '5.0',
+likes: 0,
+visibility: true,
+category: 1,
+link: 'https://kaspi.kz/shop/p/apple-iphone-14-pro-max-256gb-fioletovyi-106363342/?c=750000000#!/item'
+},
+{
+id: 17,
+name: 'Apple iPhone 11 64Gb Slim Box ',
+price: 300,
+description: `The functional and stylish Apple iPhone 11 smartphone in a metal case is able to provide not only everyday communication and entertainment, but also productive work. The image on the screen of a smartphone with a diagonal of 6.1 inches has amazing detail and color reproduction. Oleophobic coating eliminates heavy contamination of the screen. The iPhone 11 has a powerful 6-core A13 Bionic processor that performs any tasks quickly and smoothly. `,
+image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hd7/hf7/32690572328990/apple-iphone-11-64gb-slim-box-cernyj-100692387-1-Container.jpg',
+rating: '4.0',
+likes: 0,
+visibility: true,
+category: 1,
+link: 'https://kaspi.kz/shop/p/apple-iphone-11-64gb-slim-box-chernyi-100692387/?c=750000000#!/item'
+},
+{
+id: 18,
+name: 'Apple iPhone 13 mini 128Gb ',
+price: 320,
+description: `The Apple iPhone 13 mini has received a 5.4—inch Super Retina XDR display, which features an incredibly high pixel density - photos, videos and text look strikingly clear. And thanks to the reduced area of the True Depth camera, there is now more space for the image on the display.   Apple has developed a completely new camera layout and deployed the lenses at 45 degrees. `,
+image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hec/h2f/46392721997854/apple-iphone-13-mini-128gb-sinij-102298481-1-Container.jpg',
+rating: '3.8',
+likes: 0,
+visibility: true,
+category: 1,
+link: 'https://kaspi.kz/shop/p/apple-iphone-13-mini-128gb-sinii-102298481/?c=750000000#!/item'
+},
+{
+id: 19,
+name: 'Samsung Galaxy A03 Core 2 ',
+price: 30,
+description: `More display, more features. Push the boundaries of what's available with a 6.5-inch V-neck screen. Thanks to HD+ technology, the Galaxy A03 Core display shows a bright, clear and clean picture. Attractive and ergonomic design. Galaxy A03 Core combines classic style and soft tactile sensations. Improved ergonomics provides a comfortable grip and easy navigation over the entire surface of the display.`,
+image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h76/hec/47719147864094/samsung-galaxy-a03-core-2-32gb-cernyj-103153817-1.jpg',
+rating: '1.5',
+likes: 0,
+visibility: true,
+category: 2,
+link: 'https://kaspi.kz/shop/p/samsung-galaxy-a03-core-2-gb-32-gb-chernyi-103153817/?c=750000000#!/item'
+},
+
 ];
 
 

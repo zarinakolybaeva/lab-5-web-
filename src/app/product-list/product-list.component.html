@@ -1,7 +1,16 @@
-
+<div class="buttons">
+<button class="button-9" role="button" (click)="setCategory(0)">All</button>
+<button class="button-9" role="button" (click)="setCategory(1)">Apple</button>
+<button class="button-9" role="button" (click)="setCategory(2)">Samsung</button>
+<button class="button-9" role="button" (click)="setCategory(3)">Xiaomi</button>
+<button class="button-9" role="button" (click)="setCategory(4)">iPhone mini</button>
+</div>
 
 <h2>Products</h2>
 
+<div *ngFor="let product of products">
+<div *ngIf="currentCategory == 0 && product.visibility">
+  <img class="image" [src]="product.image"/>
 
   <h3>
     <a [title]="product.name + ' details'"
@@ -34,8 +43,15 @@
   </app-product-alerts>
 </div>
 
+<div *ngIf="currentCategory == product.category && product.visibility">
+  <img class="image" [src]="product.image"/>
 
-
+  <h3>
+    <a [title]="product.name + ' details'"
+    [routerLink]="['/products', product.id]">
+      {{ product.name }}
+    </a>
+  </h3>
 
   <p *ngIf="product.description">
     Description: {{ product.description }}
