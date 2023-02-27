@@ -249,7 +249,7 @@ image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hec/
 rating: '3.8',
 likes: 0,
 visibility: true,
-category: 1,
+category: 4,
 link: 'https://kaspi.kz/shop/p/apple-iphone-13-mini-128gb-sinii-102298481/?c=750000000#!/item'
 },
 {
