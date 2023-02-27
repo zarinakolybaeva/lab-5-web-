@@ -230,14 +230,14 @@ link: 'https://kaspi.kz/shop/p/apple-iphone-14-pro-max-256gb-fioletovyi-10636334
 },
 {
 id: 17,
-name: 'Apple iPhone 11 64Gb Slim Box ',
+name: 'Apple iPhone 11 mini ',
 price: 300,
 description: `The functional and stylish Apple iPhone 11 smartphone in a metal case is able to provide not only everyday communication and entertainment, but also productive work. The image on the screen of a smartphone with a diagonal of 6.1 inches has amazing detail and color reproduction. Oleophobic coating eliminates heavy contamination of the screen. The iPhone 11 has a powerful 6-core A13 Bionic processor that performs any tasks quickly and smoothly. `,
 image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hd7/hf7/32690572328990/apple-iphone-11-64gb-slim-box-cernyj-100692387-1-Container.jpg',
 rating: '4.0',
 likes: 0,
 visibility: true,
-category: 1,
+category: 4,
 link: 'https://kaspi.kz/shop/p/apple-iphone-11-64gb-slim-box-chernyi-100692387/?c=750000000#!/item'
 },
 {
