@@ -252,6 +252,18 @@ visibility: true,
 category: 2,
 link: 'https://kaspi.kz/shop/p/samsung-galaxy-a03-core-2-gb-32-gb-chernyi-103153817/?c=750000000#!/item'
 },
+{
+  id: 20,
+  name: 'APPLE iPhone 14 Pro Max 128GB (Deep Purple) ',
+  price: 800,
+  description: `The iPhone 14 Plus display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.68 inches diagonally (actual viewable area is less). `,
+  image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h1f/h05/63072540098590/apple-iphone-14-128gb-cernyj-106363023-1.jpg',
+  rating: '4.5',
+  likes: 0,
+  visibility: true,
+  category: 1,
+  link: 'https://kaspi.kz/shop/p/apple-iphone-14-128gb-chernyi-106363023/?c=750000000#!/item'
+  },
 
 ];
 
