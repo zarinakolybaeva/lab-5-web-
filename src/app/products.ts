@@ -217,18 +217,6 @@ category: 1,
 link: 'https://kaspi.kz/shop/p/apple-iphone-14-pro-max-256gb-fioletovyi-106363342/?c=750000000#!/item'
 },
 {
-id: 16,
-name: 'iPhone 14 Pro Max ',
-price: 700,
-description: `The iPhone 14 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.69 inches diagonally (actual viewable area is less). Both models: Dynamic Island. Always-On display. `,
-image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/ha3/h02/61684710604830/xiaomi-12-lite-8-gb-256-gb-cernyj-106053690-1.jpg',
-rating: '5.0',
-likes: 0,
-visibility: true,
-category: 1,
-link: 'https://kaspi.kz/shop/p/apple-iphone-14-pro-max-256gb-fioletovyi-106363342/?c=750000000#!/item'
-},
-{
 id: 17,
 name: 'Apple iPhone 11 mini ',
 price: 300,
